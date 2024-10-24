@@ -4,5 +4,5 @@ def add(x,y):
     return x+y
 
 def mul(x,y):
-    """This is mul funtion"""
+    """This is multiply funtion"""
     return x*y
